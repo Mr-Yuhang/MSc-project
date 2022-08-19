@@ -1,0 +1,7 @@
+,Accuracy,Precision,Recall,F1-score,Run time (s),Memory (MB)
+AdaBoost   (BoW) (n=1),0.89,0.87,0.93,0.9,6.39,0.0
+AdaBoost  (BoW) (n=2),0.82,0.78,0.94,0.85,4.43,0.0
+AdaBoost  (BoW) (n=3),0.7,1.0,0.44,0.61,4.26,0.0
+AdaBoost  (TF-IDF) (n=1),0.88,0.88,0.91,0.89,9.84,0.0
+AdaBoost  (TF-IDF) (n=2),0.82,0.78,0.93,0.85,5.05,0.0
+AdaBoost  (TF-IDF) (n=3),0.7,1.0,0.44,0.61,4.19,0.0
