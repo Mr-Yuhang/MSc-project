@@ -1,7 +1,0 @@
-,Accuracy,Precision,Recall,F1-score,Run time (s),Memory (MB)
-XGBoost   (BoW) (n=1),0.93,0.93,0.95,0.94,5.87,0.12
-XGBoost  (BoW) (n=2),0.83,0.79,0.93,0.85,4.56,0.02
-XGBoost  (BoW) (n=3),0.7,1.0,0.44,0.61,3.64,0.0
-XGBoost  (TF-IDF) (n=1),0.92,0.92,0.94,0.93,8.78,0.02
-XGBoost  (TF-IDF) (n=2),0.84,0.8,0.94,0.86,4.91,0.0
-XGBoost  (TF-IDF) (n=3),0.7,1.0,0.44,0.61,3.16,0.01

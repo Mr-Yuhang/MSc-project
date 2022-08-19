@@ -1,7 +1,0 @@
-,Accuracy,Precision,Recall,F1-score,Run time (s),Memory (MB)
-Voting 2  (BoW) (n=1),0.86,0.83,0.93,0.88,4.66,0.0
-Voting 2 (BoW) (n=2),0.83,0.79,0.93,0.85,3.19,0.0
-Voting 2 (BoW) (n=3),0.7,1.0,0.44,0.61,2.53,0.0
-Voting 2 (TF-IDF) (n=1),0.86,0.88,0.86,0.87,2.56,0.0
-Voting 2 (TF-IDF) (n=2),0.81,0.78,0.9,0.83,1.29,0.0
-Voting 2 (TF-IDF) (n=3),0.7,1.0,0.44,0.61,0.96,0.0
